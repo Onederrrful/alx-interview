@@ -1,4 +1,6 @@
-scal Trangle
+#!/usr/bin/python3
+"""
+Pascal Trangle
 """
 
 
